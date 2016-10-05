@@ -8,6 +8,7 @@
 
 3. Did you receive help from any other sources (classmates, etc.)? If so, please list who.
 	I got help from my friend Susan Wolfgram.
+	
 4. Approximately how many hours did it take you to complete this challenge?
 	I spent around 6-7 hours completing this project.
 
